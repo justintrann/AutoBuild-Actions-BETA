@@ -12,7 +12,7 @@ Firmware_Diy_Core() {
 	# ${OP_BRANCH}			OpenWrt 源码分支
 	# ${CONFIG_FILE}		配置文件
 	
-	Author=Justin Tran
+	Author=justintrs
 	# 作者名称, AUTO: [自动识别]
 	
 	Author_URL=justintrs.me
